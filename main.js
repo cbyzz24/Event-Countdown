@@ -1,7 +1,7 @@
 
 function updateTimeCount(){
     let currentDate = Date.parse(new Date());
-    let eventDate = Date.parse(new Date("May, 11 2025 13:30:00"));
+    let eventDate = Date.parse(new Date("August, 29 2025 00:00:00"));
     let timeGap = eventDate - currentDate;
     const dayEl = document.getElementById("dayCount");
     const hourEl = document.getElementById("hourCount");
