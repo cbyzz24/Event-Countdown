@@ -29,14 +29,14 @@ body{
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.80);  
 }
 
-.timerIcon{
+/* .timerIcon{
     text-align: center;
     font-size: 3rem;
-    /* color: hsl(120, 61%, 50%); */
+    color: hsl(120, 61%, 50%);
     color: goldenrod;
     margin-top: -45px;
     margin-bottom: 8px;
-}
+} */
 
 .header h3{
     width: auto;
